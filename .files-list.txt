@@ -1,3 +1,0 @@
-pwswd,./usr/sbin/pwswd
-pwswd,./etc/pwswd.conf
-pwswd,./etc/init.d/S91pwswd.sh
